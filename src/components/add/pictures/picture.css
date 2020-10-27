@@ -1,0 +1,74 @@
+.product-picture .picture {
+  margin: auto;
+  width: 284px;
+  height: 386px;
+  background-size: 284px 386px;
+  background-repeat: no-repeat;
+  margin-bottom: 1rem;
+}
+
+.product-picture-pro-max {
+  width: 313px;
+  height: 424px;
+  background-size: 313px 424px;
+  background-repeat: no-repeat;
+}
+
+/*IPHONE 12 PRO MAX*/
+.iphone12_pro_gold_max {
+    background: url(../../../assets/img/compare_iphone12_pro_max_gold.jpg) no-repeat;
+  }
+  .iphone12_pro_pacific_blue_max {
+    background: url(../../../assets/img/compare_iphone12_pro_pacific_blue.jpg)
+      no-repeat;
+  }
+  
+  .iphone12_pro_graphite_max {
+    background: url(../../../assets/img/compare_iphone12_pro_graphite.jpg) no-repeat;
+  }
+  .iphone12_pro_silver_max {
+    background: url(../../../assets/img/compare_iphone12_pro_silver.jpg) no-repeat;
+  }
+
+
+
+/*IPHONE 12 PRO */
+
+.iphone12_pro_gold {
+  background: url(../../../assets/img/compare_iphone12_pro_max_gold.jpg) no-repeat;
+}
+.iphone12_pro_pacific_blue {
+  background: url(../../../assets/img/compare_iphone12_pro_pacific_blue.jpg)
+    no-repeat;
+}
+
+.iphone12_pro_graphite {
+  background: url(../../../assets/img/compare_iphone12_pro_graphite.jpg) no-repeat;
+}
+.iphone12_pro_silver {
+  background: url(../../../assets/img/compare_iphone12_pro_silver.jpg) no-repeat;
+}
+
+/*IPHONE 12*/
+
+.iphone12_blue {
+  background: url(../../../assets/img/compare_iphone12_blue.jpg) no-repeat;
+}
+.iphone12_green {
+  background: url(../../../assets/img/compare_iphone12_green.jpg) no-repeat;
+}
+
+.iphone12_red {
+  background: url(../../../assets/img/compare_iphone12_red.jpg) no-repeat;
+}
+.iphone12_white {
+  background: url(../../../assets/img/compare_iphone12_white.jpg) no-repeat;
+}
+.iphone12_black {
+  background: url(../../../assets/img/compare_iphone12_black.jpg) no-repeat;
+}
+
+
+.picture-home{
+  background: url(../../../assets/img/compare_iphone12_black.jpg) no-repeat;
+}

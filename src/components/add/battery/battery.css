@@ -1,0 +1,37 @@
+.form-control .battery
+{
+    margin-top: 0px;
+ 
+}
+
+ .battery
+{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-top: 0px;
+    margin-bottom: 3rem;
+}
+
+
+.battery input
+{
+    display: flex;
+    flex:2;
+    margin-top: 0px;
+    padding-top:0px;
+    width:180px;
+    height:0px;
+
+}
+.battery-text{
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+  } 
+ .battery-text span{
+        font-size: 14px;
+        color: #52514d;
+        margin-left: 1rem;
+    }
+    

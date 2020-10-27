@@ -1,0 +1,59 @@
+.storages-container {
+  display: flex;
+  width: 350px;
+}
+
+.storages {
+  width: 350px;
+  height: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.btn-storage {
+  background-color: transparent;
+  display: flex;
+  border: none;
+  width: 74px;
+  height: 74px;
+  text-align: center;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.btn-storage span, .btn-storage-active span {
+ font-size: 1.5rem;
+ color: #52514d;
+
+}
+
+.btn-storage-active {
+  background-color: transparent;
+  border: 1px solid #0d64d6be;
+  cursor: pointer;
+  font-weight: bold;
+  display: flex;
+  width: 74px;
+  height: 74px;
+  justify-content: center;
+  text-align: center;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-storage:hover {
+  border: 1px solid #1e73e283;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-storage:focus,
+.btn-storage-active:focus {
+  outline: none;
+}
